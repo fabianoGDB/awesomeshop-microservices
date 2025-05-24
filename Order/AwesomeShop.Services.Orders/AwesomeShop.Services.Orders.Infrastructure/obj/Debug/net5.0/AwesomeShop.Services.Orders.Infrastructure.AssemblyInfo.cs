@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AwesomeShop.Services.Orders.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa7edf239fdc12f10a32114569c056aacdaf213")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57cc8f7e743452d8fb8462e82c18ea7619293831")]
 [assembly: System.Reflection.AssemblyProductAttribute("AwesomeShop.Services.Orders.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AwesomeShop.Services.Orders.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
