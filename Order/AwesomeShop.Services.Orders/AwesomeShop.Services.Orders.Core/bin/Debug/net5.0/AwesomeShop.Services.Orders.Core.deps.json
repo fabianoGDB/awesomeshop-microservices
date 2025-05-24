@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AwesomeShop.Services.Orders.Core/1.0.0": {
+        "runtime": {
+          "AwesomeShop.Services.Orders.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AwesomeShop.Services.Orders.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

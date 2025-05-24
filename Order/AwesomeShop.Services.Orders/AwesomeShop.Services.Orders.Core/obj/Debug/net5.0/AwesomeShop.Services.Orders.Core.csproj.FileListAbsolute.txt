@@ -1,0 +1,12 @@
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\bin\Debug\net5.0\AwesomeShop.Services.Orders.Core.deps.json
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\bin\Debug\net5.0\AwesomeShop.Services.Orders.Core.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\bin\Debug\net5.0\AwesomeShop.Services.Orders.Core.pdb
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.AssemblyInfoInputs.cache
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.AssemblyInfo.cs
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.csproj.CoreCompileInputs.cache
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.sourcelink.json
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\refint\AwesomeShop.Services.Orders.Core.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\AwesomeShop.Services.Orders.Core.pdb
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Core\obj\Debug\net5.0\ref\AwesomeShop.Services.Orders.Core.dll

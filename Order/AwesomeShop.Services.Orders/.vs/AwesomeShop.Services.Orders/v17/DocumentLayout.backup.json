@@ -1,12 +1,189 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737F4451-1C9F-40BE-98AF-2C05A92D3007}|AwesomeShop.Services.Orders.Core\\AwesomeShop.Services.Orders.Core.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.core\\entitties\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737F4451-1C9F-40BE-98AF-2C05A92D3007}|AwesomeShop.Services.Orders.Core\\AwesomeShop.Services.Orders.Core.csproj|solutionrelative:awesomeshop.services.orders.core\\entitties\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF13A69F-0542-4E9F-9D18-0C4ABD0F3E03}|AwesomeShop.Services.Orders.Application\\AwesomeShop.Services.Orders.Application.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.application\\commands\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF13A69F-0542-4E9F-9D18-0C4ABD0F3E03}|AwesomeShop.Services.Orders.Application\\AwesomeShop.Services.Orders.Application.csproj|solutionrelative:awesomeshop.services.orders.application\\commands\\addorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF13A69F-0542-4E9F-9D18-0C4ABD0F3E03}|AwesomeShop.Services.Orders.Application\\AwesomeShop.Services.Orders.Application.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.application\\commands\\handlers\\addorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF13A69F-0542-4E9F-9D18-0C4ABD0F3E03}|AwesomeShop.Services.Orders.Application\\AwesomeShop.Services.Orders.Application.csproj|solutionrelative:awesomeshop.services.orders.application\\commands\\handlers\\addorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F27CE3-03EB-4A57-9CA7-EE9DCA12776B}|AwesomeShop.Services.Orders.Api\\AwesomeShop.Services.Orders.Api.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F27CE3-03EB-4A57-9CA7-EE9DCA12776B}|AwesomeShop.Services.Orders.Api\\AwesomeShop.Services.Orders.Api.csproj|solutionrelative:awesomeshop.services.orders.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|solutionrelative:awesomeshop.services.orders.infrastructure\\persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|solutionrelative:awesomeshop.services.orders.infrastructure\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F4451-1C9F-40BE-98AF-2C05A92D3007}|AwesomeShop.Services.Orders.Core\\AwesomeShop.Services.Orders.Core.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737F4451-1C9F-40BE-98AF-2C05A92D3007}|AwesomeShop.Services.Orders.Core\\AwesomeShop.Services.Orders.Core.csproj|solutionrelative:awesomeshop.services.orders.core\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F27CE3-03EB-4A57-9CA7-EE9DCA12776B}|AwesomeShop.Services.Orders.Api\\AwesomeShop.Services.Orders.Api.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F27CE3-03EB-4A57-9CA7-EE9DCA12776B}|AwesomeShop.Services.Orders.Api\\AwesomeShop.Services.Orders.Api.csproj|solutionrelative:awesomeshop.services.orders.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|c:\\users\\docto\\projetos\\awesomeshop\\order\\awesomeshop.services.orders\\awesomeshop.services.orders.infrastructure\\persistence\\mongodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D83265D-266C-4D41-8B92-2B4524FB7D4A}|AwesomeShop.Services.Orders.Infrastructure\\AwesomeShop.Services.Orders.Infrastructure.csproj|solutionrelative:awesomeshop.services.orders.infrastructure\\persistence\\mongodboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Core\\Entitties\\Customer.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Core\\Entitties\\Customer.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Core\\Entitties\\Customer.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Core\\Entitties\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:21:47.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrder.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Application\\Commands\\AddOrder.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Application\\Commands\\AddOrder.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Application\\Commands\\AddOrder.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Application\\Commands\\AddOrder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:18:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAKQTAAAAAAAAAAAqwK4TAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-24T21:17:56.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Core\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Core\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Core\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:13:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Api\\Startup.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Api\\Startup.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Api\\Startup.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Api\\Startup.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:12:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Extensions.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Infrastructure\\Extensions.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Extensions.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Infrastructure\\Extensions.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:12:06.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Infrastructure\\Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:11:50.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDbOptions.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Infrastructure\\Persistence\\MongoDbOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:11:47.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Application\\Commands\\Handlers\\AddOrderHandler.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Application\\Commands\\Handlers\\AddOrderHandler.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Application\\Commands\\Handlers\\AddOrderHandler.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Application\\Commands\\Handlers\\AddOrderHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:10:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "AwesomeShop.Services.Orders.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\awesomeshop\\Order\\AwesomeShop.Services.Orders\\AwesomeShop.Services.Orders.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "AwesomeShop.Services.Orders.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T21:10:40.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

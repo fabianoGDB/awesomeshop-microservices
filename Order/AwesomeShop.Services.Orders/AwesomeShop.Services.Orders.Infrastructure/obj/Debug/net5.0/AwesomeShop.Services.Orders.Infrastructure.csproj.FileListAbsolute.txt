@@ -1,0 +1,16 @@
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.deps.json
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.pdb
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Orders.Core.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\bin\Debug\net5.0\AwesomeShop.Services.Orders.Core.pdb
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.AssemblyInfo.cs
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.sourcelink.json
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeS.404C49DE.Up2Date
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\refint\AwesomeShop.Services.Orders.Infrastructure.dll
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\AwesomeShop.Services.Orders.Infrastructure.pdb
+C:\Users\docto\projetos\awesomeshop\Order\AwesomeShop.Services.Orders\AwesomeShop.Services.Orders.Infrastructure\obj\Debug\net5.0\ref\AwesomeShop.Services.Orders.Infrastructure.dll
