@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AwesomeShop.Services.Orders.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+260301627a4a3e3d4f4a349bd807edcb4efd70ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35d0da9f9e258b3e0569c9007a833665a2c8f1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("AwesomeShop.Services.Orders.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AwesomeShop.Services.Orders.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
