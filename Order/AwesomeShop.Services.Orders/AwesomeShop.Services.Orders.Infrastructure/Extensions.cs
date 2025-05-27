@@ -1,12 +1,10 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using AwesomeShop.Services.Orders.Core.Entitties;
 using AwesomeShop.Services.Orders.Core.Repositories;
 using AwesomeShop.Services.Orders.Infrastructure.MessageBus;
 using AwesomeShop.Services.Orders.Infrastructure.Persistence;
 using AwesomeShop.Services.Orders.Infrastructure.Persistence.Repositories;
+using AwesomeShop.Services.Orders.Infrastructure.ServiceDiscovery;
+using Consul;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Bson;
@@ -73,5 +71,22 @@ namespace AwesomeShop.Services.Orders.Infrastructure
 
             return services;
         }
+
+        public static IServiceCollection AddConsul(this IServiceCollection services, IConfiguration configuration)
+        {
+            services.AddSingleton<IConsulClient, ConsulClient>(p => new ConsulClient(consulConfig =>
+            {
+                var address = configuration.GetValue<string>("Consul:Host");
+
+                consulConfig.Address = new Uri(address);
+
+            }));
+
+            services.AddTransient<IServiceDiscoveryService, ConsulService>();
+
+
+            return services;
+        }
+
     }
 }
