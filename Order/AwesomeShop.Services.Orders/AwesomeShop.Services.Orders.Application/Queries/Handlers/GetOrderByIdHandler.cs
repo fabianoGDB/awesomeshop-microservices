@@ -5,6 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using AwesomeShop.Services.Orders.Application.Dtos.ViewModels;
 using AwesomeShop.Services.Orders.Core.Repositories;
+using AwesomeShop.Services.Orders.Infrastructure.CacheStorage;
 using MediatR;
 
 namespace AwesomeShop.Services.Orders.Application.Queries.Handlers
@@ -12,23 +13,28 @@ namespace AwesomeShop.Services.Orders.Application.Queries.Handlers
     public class GetOrderByIdHandler : IRequestHandler<GetOrderById, OrderViewModel>
     {
         private readonly IOrderRepository _orderRepository;
+        private readonly ICacheService _cacheService;
 
-        public GetOrderByIdHandler(IOrderRepository orderRepository)
+        public GetOrderByIdHandler(IOrderRepository orderRepository, ICacheService cacheService)
         {
             _orderRepository = orderRepository;
+            _cacheService = cacheService;
         }
 
         public async Task<OrderViewModel> Handle(GetOrderById request, CancellationToken cancellationToken)
         {
-            var order = await _orderRepository.GetOrderById(request.Id);
+            var cacheKey = request.Id.ToString();
+            var orderViewModel = await _cacheService.GetAsync<OrderViewModel>(cacheKey);
 
-
-            if (order == null)
+            if (orderViewModel == null)
             {
-                return null;
+
+                var order = await _orderRepository.GetOrderById(request.Id);
+                orderViewModel = OrderViewModel.FromEntity(order);
+
+                await _cacheService.SetAsync(cacheKey, orderViewModel);
             }
 
-            var orderViewModel = OrderViewModel.FromEntity(order);
 
             return orderViewModel;
         }

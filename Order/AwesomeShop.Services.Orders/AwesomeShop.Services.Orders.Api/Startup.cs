@@ -35,6 +35,7 @@ namespace AwesomeShop.Services.Orders.Api
             .AddRepository()
             .AddHandlers()
             .AddSubscribers()
+            .AddRedisCache()
             .AddConsul(Configuration);
 
             services.AddHttpClient();
